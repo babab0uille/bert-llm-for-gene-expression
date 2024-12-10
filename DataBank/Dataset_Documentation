@@ -1,0 +1,14 @@
+## Source of Data
+
+The dataset used in this project was obtained from the NCBI GEO database. The specific dataset can be accessed at the following link:
+
+[NCBI GEO - GDS6063](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS6063)
+
+## Citation
+
+> National Center for Biotechnology Information. Gene Expression Omnibus (GEO): GDS6063. Available online: [https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS6063](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS6063).
+
+## Notes
+
+This dataset was prepared for this project to work with machine learning models. The raw data shows gene expression levels for different samples.
+"""
